@@ -53,6 +53,6 @@ The app opens in your browser at `http://localhost:8501`.
 
 ## About me
 
-Devin Roper — Junior at Ohio University, majoring in MIS and Business Analytics. Starting an MS in Business Analytics at OU in Fall 2026. Built this as a hands-on exercise in financial data pipelines and interactive analytics tools.
+Devin Roper — Graduate student at Ohio University, studying Business Analytics. Built this as a hands-on exercise in financial data pipelines and interactive analytics tools.
 
 [LinkedIn](https://www.linkedin.com/in/devin-roper1/)
