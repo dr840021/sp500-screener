@@ -2,7 +2,7 @@
 
 An interactive Streamlit web application that screens the S&P 500 universe for fundamentally strong stocks and generates portfolio allocations based on user-defined capital and weighting strategy.
 
-**[Live demo](#)** *(coming soon — Streamlit Cloud deployment in progress)*
+**[Live demo](#)** ***[Live demo]((https://devins-screener.streamlit.app/))** — try it in your browser *
 
 ## What it does
 
